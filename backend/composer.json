@@ -1,0 +1,8 @@
+{
+    "name": "backend/teste-php-dev",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
